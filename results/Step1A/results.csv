@@ -1,0 +1,5 @@
+batch_size,config_id,selected_config,fairness_gap,min_coverage,max_coverage,avg_coverage,coverage_std
+10,0,"(0, 0, 0, 0, 35)",6,0,6,1.2,2.4
+100,0,"(0, 0, 0, 0, 35)",6,0,6,1.2,2.4
+1000,666,"(0, 1, 0, 0, 34)",6,0,6,2.04,2.842252627758483
+10000,9272,"(1, 1, 6, 17, 10)",0,6,6,6.0,0.0
