@@ -1,0 +1,2 @@
+Config_Size,Fairness_Gap,Min_Coverage,Max_Coverage,Avg_Coverage,Total_Movements,Solve_Time,MIP_Gap,Status,Active_Configs,Total_Configs
+1000,0,6,6,6.0,0,0.6860957145690918,0.0,2,1000,82251

@@ -1,0 +1,5 @@
+Config Size,Model Type,Fairness Gap,Solve Time (s),Variables,Constraints
+82251,Binary Selection (Max=1),0.0,0.008246,82251.0,82251.0
+82251,Unary Expansion (Max=3),0.0,3.105,411306.0,411306.0
+82251,Unary Expansion (Max=5),0.0,3.293,575808.0,575808.0
+82251,Unary Expansion (Max=7),0.0,4.437,740310.0,740310.0

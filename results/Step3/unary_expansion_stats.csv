@@ -1,0 +1,6 @@
+,Fairness Gap,Fairness Gap,Fairness Gap,Fairness Gap,Solve Time (s),Solve Time (s),Solve Time (s),Solve Time (s),Variables,Variables,Variables
+,mean,min,max,std,mean,min,max,std,mean,min,max
+Model Type,,,,,,,,,,,
+Unary Expansion (Max=3),24.0,0.0,192.0,67.882,1.407,0.011,2.92,0.993,205926.625,551.0,411306.0
+Unary Expansion (Max=5),22.5,0.0,180.0,63.64,1.52,0.013,3.224,1.083,288276.875,751.0,575808.0
+Unary Expansion (Max=7),21.0,0.0,168.0,59.397,1.844,0.013,4.266,1.376,370627.125,951.0,740310.0

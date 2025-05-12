@@ -1,0 +1,2 @@
+objective,solve_time,num_variables,num_constraints,model_status,max_movement,num_ambulances,num_configs,config_size,max_config_frequency,mip_gap,fairness_gap,min_coverage,max_coverage,avg_coverage,total_movement,total_time
+0.0,0.06595206260681152,2906,3696,2,10,15,90,90,3,0.0,0,6,6,6.0,49,0.10866189002990723
