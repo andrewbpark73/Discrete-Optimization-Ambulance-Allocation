@@ -11,7 +11,7 @@
 
 **Advisor:** Prof. Andrea Lodi (Cornell Tech), Zhi Liu (Cornell Tech)
 
-An optimization model that addresses fairness in ambulance allocation over time, using Gurobi optimization solver to minimize fairness gaps and overtime while ensuring efficient ambulance deployment and response planning.
+Exploration of ambulance allocation problem with fairness over time, using Gurobi optimization solver to minimize fairness gaps over zones, while testing with various sizes of configurations for efficiency comparison.
 
 ## Project Structure
 
