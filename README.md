@@ -1,10 +1,17 @@
-@Contributors: Andrew Park (Cornell Tech), Leihao Wang (Cornell Tech), Nina Wang (Cornell Tech)
-@Advisor: Prof. Andrea Lodi (Cornell Tech)
-@Course: ORIE 5213 Discrete Optimization for Urban Planning and Mobility (2025SP)
-
 # Fairness Overtime for Ambulance Allocation
 
-An optimization model for ambulance allocation using Gurobi optimization solver.
+## Project Information
+
+**Course:** ORIE 5213 Discrete Optimization for Urban Planning and Mobility (2025SP)
+
+**Contributors:**
+- Andrew Park (Cornell Tech)
+- Leihao Wang (Cornell Tech)
+- Nina Wang (Cornell Tech)
+
+**Advisor:** Prof. Andrea Lodi (Cornell Tech), Zhi Liu (Cornell Tech)
+
+An optimization model that addresses fairness in ambulance allocation over time, using Gurobi optimization solver to minimize fairness gaps and overtime while ensuring efficient ambulance deployment and response planning.
 
 ## Project Structure
 
